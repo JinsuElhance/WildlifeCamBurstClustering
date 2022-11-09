@@ -1,2 +1,3 @@
 *.csv
-auth_file.txt
+.scraps/mediantimediff.txt
+.env
